@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "curso-typescript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "tsc"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "typescript": "^5.5.3"
-  },
-  "private": true
-=======
   "name": "hello-typescript",
   "version": "1.0.0",
   "description": "",
@@ -43,5 +29,4 @@
   "dependencies": {
     "multiformats": "^9.9.0"
   }
->>>>>>> 5f6094a (Configs e Aula 01 (Type Annotation))
 }
