@@ -1,0 +1,22 @@
+{
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+      "typescript": "npx ts-node --files"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+},
+  "editor.defaultFormatter": "esbenp.prettier-vscode", 
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+      "editorWarning.foreground": "#8be9fd",
+      "errorForeground": "#ff5555",
+      "gitDecoration.conflictingResourceForeground": "#ffb86c",
+      "gitDecoration.deletedResourceForeground": "#ff5555",
+      "gitDecoration.ignoredResourceForeground": "#6272a4",
+      "gitDecoration.modifiedResourceForeground": "#8be9fd",
+      "gitDecoration.untrackedResourceForeground": "#50fa7b",
+      "editorError.foreground": "#8be9fd"
+  }
+}
